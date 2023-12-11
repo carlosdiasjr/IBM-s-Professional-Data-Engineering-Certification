@@ -1,0 +1,10 @@
+2023-12-10 21:26:23.558951 - Starting table extraction.
+2023-12-10 21:26:25.307119 - Table extraction successful.
+2023-12-10 21:26:25.312095 - Starting data transformation.
+2023-12-10 21:26:25.313896 - Data transformation completed.
+2023-12-10 21:26:25.319164 - Starting loading data to CSV.
+2023-12-10 21:26:25.320662 - Data loaded to CSV.
+2023-12-10 21:26:25.320737 - Starting loading data to database.
+2023-12-10 21:26:25.325715 - Data loaded to database.
+2023-12-10 21:26:25.325772 - Starting database query: SELECT * FROM banks LIMIT 5
+2023-12-10 21:26:25.326221 - Queries executed.
